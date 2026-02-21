@@ -295,14 +295,4 @@ pytest --cov=sewa tests/
 
 ---
 
-## 📄 License
 
-**MIT License**
-
----
-
-## 📬 Contact
-
-**SEWA Development Team**
-Version **1.0** — January 2026
----
